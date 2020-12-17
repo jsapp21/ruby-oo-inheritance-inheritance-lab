@@ -34,5 +34,8 @@ Play around with it a bit more by trying out the following in this file:
 * Then, `puts` out the existing knowledge of each student. 
 
 
+Teachers ---< User >--- Student
 
+User is the parent
+Teacher & Student are the child
 
